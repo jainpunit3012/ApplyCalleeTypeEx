@@ -260,7 +260,7 @@ ApplyCalleeTypeEx/
 ├───Media
 │       image1.png                       ← type source dialog screenshot
 │       image2.png                       ← manual prototype editor screenshot
-│       image3.gif                       ← demo — applying ShellExecuteA in pseudocode
+│       image3.gif                       ← demo — applying LdrGetProcedureAddress in pseudocode
 │
 └───Tests
     │   test_apply_callee_type_ex.py     ← test suite (run via File → Script file…)
