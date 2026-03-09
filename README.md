@@ -97,17 +97,17 @@ https://github.com/user-attachments/assets/1581fa9c-f7e0-4049-ac70-1c664420278c
 
 <br>
 
-![Type Source Dialog](Media/image1.png)
+![Type Source Dialog](Media/image1.png)<br>
 *Type source selection dialog — three input paths with tooltips*
 
 <br>
 
-![Manual Prototype Editor](Media/image2.png)
+![Manual Prototype Editor](Media/image2.png)<br>
 *Multi-line prototype editor with live preprocessing preview — paste any real-world prototype format directly*
 
 <br>
 
-![Demo — Applying LdrGetProcedureAddress in Pseudocode](Media/image3.gif)
+![Demo — Applying LdrGetProcedureAddress in Pseudocode](Media/image3.gif)<br>
 *Applying `LdrGetProcedureAddress` prototype to a runtime-resolved indirect call — disassembler and decompiler update immediately*
 
 ---
