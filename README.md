@@ -91,6 +91,12 @@ The original FLARE plugin was a functional but minimal proof of concept. This po
 
 <br>
 
+https://github.com/Dump-GUY/ApplyCalleeTypeEx/blob/main/Media/ApplyCalleeTypeEx_Demo.mp4
+
+*Pseudocode view — Standard Type: applying `MessageBoxA` + Manual entry: pasting `LdrGetProcedureAddress` from ntdoc — SAL annotations stripped automatically*
+
+<br>
+
 ![Type Source Dialog](Media/image1.png)
 *Type source selection dialog — three input paths with tooltips*
 
