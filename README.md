@@ -1,4 +1,4 @@
-# ApplyCalleeTypeEx
+# ApplyCalleeTypeEx 🤙
 
 > **ApplyCalleeType — Reborn for IDA Pro 9.3** *(compatible IDA Pro 8.x → 9.3+)*
 
