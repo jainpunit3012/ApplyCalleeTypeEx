@@ -1,0 +1,38 @@
+{
+  "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "ApplyCalleeTypeEx",
+    "entryPoint": "apply_callee_type_ex.py",
+    "version": "1.0.0",
+    "description": "Applies a known function prototype to an indirect CALL instruction. Unlocks correct decompiler and disassembler output for runtime-resolved APIs stored in local stack variables. Port and enhancement of the Mandiant FLARE apply_callee_type plugin for IDA Pro 8.x through 9.3+.",
+    "license": "Apache-2.0",
+    "idaVersions": ">=8.0",
+    "categories": [
+      "malware-analysis",
+      "api-scripting-and-automation"
+    ],
+    "urls": {
+      "repository": "https://github.com/Dump-GUY/ApplyCalleeTypeEx"
+    },
+    "authors": [
+      {
+        "name": "Jiří Vinopal"
+      }
+    ],
+    "keywords": [
+      "callee-type",
+      "indirect-call",
+      "apply-type",
+      "type-propagation",
+      "decompiler",
+      "pseudocode",
+      "malware-analysis",
+      "runtime-api-resolution",
+      "peb-walk",
+      "getprocaddress",
+      "function-prototype",
+      "flare",
+      "ida-9"
+    ]
+  }
+}
